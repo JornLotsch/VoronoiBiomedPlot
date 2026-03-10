@@ -1,0 +1,7 @@
+^\.github
+^.*\.ipynb
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.idea
+README.md
+
