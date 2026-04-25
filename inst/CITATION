@@ -1,15 +1,18 @@
 bibentry(bibtype    = "Article",
-  title = "Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results",
+  title = "Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results.",
   journal = "PLoS One",
-  volume = "(in revision)",
-  number = "",
-  pages = "",
+  volume = "21",
+  number = "4",
+  pages = "e0333653",
   year = "2026",
   issn = "1932-6203",
+  doi = "10.1371/journal.pone.0333653",
+  url = "https://doi.org/10.1371/journal.pone.0333653",
   author = "Jörn Lötsch and Dario Kringel",
   textVersion  = paste("Jorn Lotsch, and Dario Kringel (2026).",
-                              "Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results",
-                              "PLoS One (in revision)")
+                              "Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results.",
+                              "PLoS One 21(4): e0333653.",
+                              "doi: 10.1371/journal.pone.0333653")
 )
 
 bibentry(bibtype    = "Article",
@@ -21,10 +24,11 @@ bibentry(bibtype    = "Article",
   year = "2024",
   issn = "2352-9148",
   doi = "10.1016/j.imu.2024.101573",
+  url = "https://doi.org/10.1016/j.imu.2024.101573",
   author = "Jörn Lötsch and Alfred Ultsch",
   textVersion  = paste("Jorn Lotsch, and Alfred Ultsch (2024).",
                               "Comparative assessment of projection and clustering method combinations in the analysis of biomedical data.",
                               "Informatics in Medicine Unlocked 50: 101573.",
-                              "doi: https://doi.org/10.1016/j.imu.2024.101573")
+                              "doi: 10.1016/j.imu.2024.101573")
 )
 

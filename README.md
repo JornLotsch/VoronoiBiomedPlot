@@ -4,14 +4,15 @@ VoronoiBiomedPlot is an R package for visualizing multivariate biomedical data u
 
 ## Installation
 
-The package is available on CRAN
+### Install from CRAN
+
 ```r
 install.packages("VoronoiBiomedPlot")
 ```
 
-or from this repository 
+### Or install (possibly a development version) from GitHub
+
 ```r
-# install.packages("remotes")
 remotes::install_github("JornLotsch/VoronoiBiomedPlot")
 ```
 
@@ -112,7 +113,7 @@ The package depends on:
 
 If you use VoronoiBiomedPlot in scientific work, please cite:
 
-- Lötsch J, Kringel D (2026). *Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results*. PLoS One (in revision).
+- Lötsch J, Kringel D (2026). *Voronoi tessellation as a complement or replacement for confidence ellipses in the visualization of data projection and clustering results*. PLoS One 21(4):e0333653 (https://doi.org/10.1371/journal.pone.0333653).
 
 For related methodology, you may also cite:
 
@@ -129,4 +130,4 @@ once the package is installed.
 ## License
 
 This package is released under the CC-BY 4.0 license.
-```
+
